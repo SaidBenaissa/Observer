@@ -1,0 +1,14 @@
+/Users/sbenaissa/workspace/MyDelegate/obj/Debug/net9.0/MyDelegate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sbenaissa/workspace/MyDelegate/obj/Debug/net9.0/MyDelegate.AssemblyInfoInputs.cache
+/Users/sbenaissa/workspace/MyDelegate/obj/Debug/net9.0/MyDelegate.AssemblyInfo.cs
+/Users/sbenaissa/workspace/MyDelegate/obj/Debug/net9.0/MyDelegate.csproj.CoreCompileInputs.cache
+/Users/sbenaissa/workspace/MyDelegate/bin/Debug/net9.0/MyDelegate
+/Users/sbenaissa/workspace/MyDelegate/bin/Debug/net9.0/MyDelegate.deps.json
+/Users/sbenaissa/workspace/MyDelegate/bin/Debug/net9.0/MyDelegate.runtimeconfig.json
+/Users/sbenaissa/workspace/MyDelegate/bin/Debug/net9.0/MyDelegate.dll
+/Users/sbenaissa/workspace/MyDelegate/bin/Debug/net9.0/MyDelegate.pdb
+/Users/sbenaissa/workspace/MyDelegate/obj/Debug/net9.0/MyDelegate.dll
+/Users/sbenaissa/workspace/MyDelegate/obj/Debug/net9.0/refint/MyDelegate.dll
+/Users/sbenaissa/workspace/MyDelegate/obj/Debug/net9.0/MyDelegate.pdb
+/Users/sbenaissa/workspace/MyDelegate/obj/Debug/net9.0/MyDelegate.genruntimeconfig.cache
+/Users/sbenaissa/workspace/MyDelegate/obj/Debug/net9.0/ref/MyDelegate.dll
